@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smart Door Lock Graduation"
+  short_description: "Close the firmware, hardware, test, and thesis loop"
+  default_prompt: "Use $smart-door-lock-graduation to assess the current project stage and complete the next verifiable milestone."

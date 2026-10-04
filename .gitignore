@@ -1,0 +1,54 @@
+# Keil MDK build output and user state
+Objects/
+Listings/
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.lst
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.dep
+*.htm
+*.uvoptx
+*.uvguix.*
+*.scvd
+
+# IDE and OS local files
+.settings/
+.vscode/settings.json
+*.launch
+.vs/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Temporary and backup files
+tmp/
+*.tmp
+*.bak
+*.log
+*.swp
+*~
+
+# Local vendor archive; curate and commit required references separately
+资料/
+
+# Executable vendor tools and archives
+*.exe
+*.zip
+*.rar
+*.7z
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+secrets/
